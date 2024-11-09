@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. student in the Department of Statistics at Pennsylvania State University. Previously, I obtained my B.S. in Statistics from the University of Science and Technology of China in 2024.
 
 ## Research Interests
 
