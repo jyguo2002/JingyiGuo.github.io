@@ -8,8 +8,8 @@ I am currently a Ph.D. student in the Department of Statistics at the Pennsylvan
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Traditional Statistics:** high dimensional statistics, causal inference, network analysis.
+- **Machine Learning:** meta-learning, representation learning, transfer learning, reinforcement learning, large language model.
 
 ## News
 
