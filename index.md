@@ -10,7 +10,7 @@ I am currently a Ph.D. student in the Department of Statistics at the [Pennsylva
 
 - **Traditional Statistics:** high dimensional statistics, causal inference, network analysis.
 - **Machine Learning:** meta-learning, representation learning, transfer learning, reinforcement learning, large language model.
-
+<div style="display:none">
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -21,3 +21,4 @@ I am currently a Ph.D. student in the Department of Statistics at the [Pennsylva
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+</div>
