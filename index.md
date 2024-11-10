@@ -21,6 +21,3 @@ I am currently a Ph.D. student in the Department of Statistics at the [Pennsylva
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
-
-[def]: https://en.ustc.edu.cn/
