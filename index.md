@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student in the Department of Statistics at the Pennsylvania State University. Previously, I obtained my B.S. in Statistics from the University of Science and Technology of China in 2024.
+I am currently a Ph.D. student in the Department of Statistics at the [Pennsylvania State University](https://www.psu.edu). Previously, I obtained my B.S. in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2024.
 
 ## Research Interests
 
@@ -21,3 +21,6 @@ I am currently a Ph.D. student in the Department of Statistics at the Pennsylvan
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+
+[def]: https://en.ustc.edu.cn/
